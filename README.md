@@ -53,3 +53,8 @@ Future Enhancements
 Implementing stored procedures for repetitive analysis.
 
 Visualizing insights with tools like Tableau or Power BI.
+
+Author
+
+Hem Vora
+Data enthusiast passionate about solving complex problems with data-driven insights.
